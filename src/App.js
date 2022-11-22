@@ -39,7 +39,7 @@ function App() {
 
 <div className='flex flex-col gap-y-1' >
         <div className='font-bold'>
-              Would you recommend  <a href="https://youtu.be/dQw4w9WgXcQ" className='text-blue-600'>ZAIRZA</a>  to a friend?
+              Would you recommend  <a href="https://zairza.in/" className='text-blue-600'>ZAIRZA</a>  to a friend?
         </div>
         <div className='flex text-center space-x-2'>
             <input type="radio" name="sdxsd" id="" />
